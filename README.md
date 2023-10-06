@@ -1,6 +1,5 @@
 ### Olá, me chamo Euler Lima
-- 🔭 Estudando back-end e front-end
-- 🌱 Aprendendo React, Spring e Flutter
+- 💻 Desenvolvedor Full-Stack React, Node.js e Python/Java.
 - 📫 Contato: euler410@gmail.com
 <div>
   <a href="https://www.linkedin.com/in/euler-lima-794235158/">
